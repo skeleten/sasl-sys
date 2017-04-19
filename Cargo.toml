@@ -1,0 +1,6 @@
+[package]
+name = "sasl-sys"
+version = "0.1.0"
+authors = ["Jan Pelle Thomson <thomson@vkm.tu-darmstadt.de>"]
+
+[dependencies]
